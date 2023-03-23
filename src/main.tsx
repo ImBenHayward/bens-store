@@ -7,6 +7,7 @@ import Basket from './Basket'
 import Checkout from './Checkout'
 import Product from './Product'
 import ProductsView from './ProductsView'
+import './index.css'
 
 const router = createBrowserRouter([
   {
